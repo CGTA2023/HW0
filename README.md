@@ -1,5 +1,5 @@
-# NYCU CG2023 Homework 0
-
+# NYCU CG2021 Homework 0
+https://github.com/CGTA2023/HW0
 ## Dependencies
 
 - [glfw](https://github.com/glfw/glfw)
